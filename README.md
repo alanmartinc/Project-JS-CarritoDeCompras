@@ -1,2 +1,2 @@
 # Project-JS-CarritoDeCompras
-JS
+## JS - Proyecto
